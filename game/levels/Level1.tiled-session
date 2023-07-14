@@ -1,0 +1,55 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "#Fantasy_tileset3FINISHED": {
+            "scaleInDock": 1
+        },
+        "Fantasy_tileset3FINISHED.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Vikings_tilemaps_016.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "level1.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 281,
+                "y": 114
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/Users/curti/Documents/maps",
+    "last.imagePath": "C:/Users/curti/Downloads",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.orientation": null,
+    "map.tileHeight": 40,
+    "map.tileWidth": 40,
+    "map.width": 20,
+    "openFiles": [
+    ],
+    "project": "Level1.tiled-project",
+    "recentFiles": [
+        "Vikings_tilemaps_016.tsx",
+        "Fantasy_tileset3FINISHED.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 40,
+        "width": 40
+    }
+}
